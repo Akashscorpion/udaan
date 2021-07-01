@@ -1,3 +1,10 @@
+body{
+  background-color: #282c34;
+  color: aliceblue;
+}
+textarea :hover{
+  background-color: aqua;
+  }
 .App {
   text-align: center;
 }

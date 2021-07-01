@@ -1,0 +1,19 @@
+div{
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}
+textarea{  
+    margin-left: 5px;
+    margin-top: 5px;
+    font-style: normal;
+    appearance: none;
+    text-decoration: none;
+    font-size: 12px;
+    border: 2px;
+    display: inline;
+    float: left;
+    background-color: antiquewhite;
+    height: 5vh;
+    width: 5vw;
+}
